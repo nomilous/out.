@@ -13,8 +13,8 @@ $$in(function(
 
 ){
     
-  result1( arg1 + 1 );
-  result2( arg2 + 2 );
+  resultCase1( arg1 + 1 );
+  resultCase2( arg2 + 2 );
 
   // still a young idea... (brewing)
 
